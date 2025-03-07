@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "Contact"
 author_profile: true
 redirect_from: 
