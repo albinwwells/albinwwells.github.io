@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects/
+  - /projects
 ---
 
 {% include base_path %}
