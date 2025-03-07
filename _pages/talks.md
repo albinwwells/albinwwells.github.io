@@ -13,7 +13,7 @@ author_profile: true
 ---
   
 ---
-## Talks and Presentations
+## Talks
 
 December 2024, **Parsing glacier mass balance and flux divergence: challenges and
 implications of direct field measurements on remote sensing solutions**,
