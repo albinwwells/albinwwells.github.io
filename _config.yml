@@ -22,7 +22,7 @@ repository               : "albinwwells/albinwwells.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile/profile_pic.png"
+  avatar           : "profile_pic.png"
   name             : "Albin Wells"
   pronouns         : "he/him"  
   bio              : "PhD candidate"
