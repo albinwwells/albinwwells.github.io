@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-In all courses below I was a teaching assistant.
+In all courses list below, I was a teaching assistant.
 
 ---
 ## Carnegie Mellon University, Pittsburgh, PA (USA)
