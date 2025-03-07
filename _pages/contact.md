@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: true
 redirect_from: 
   - /contact/
-  - /contact.html
+  - /contact
 ---
 
 I am part of the [CryoTartans Lab](https://www.cmu.edu/cee/cryotartans/index.html){:target="_blank"} in the [Civil and Environmental Engineering Department](https://cee.engineering.cmu.edu/){:target="_blank"} at Carnegie Mellon University.
