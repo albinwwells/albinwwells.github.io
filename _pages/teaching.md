@@ -12,15 +12,19 @@ In all courses below I was a teaching assistant.
 ---
 ## Carnegie Mellon University, Pittsburgh, PA (USA)
 - Water Resources Engineering, 12-657/757,
-Undergraduate and Graduate level\Spring 2023, Fall 2023, Fall 2024
+Undergraduate and Graduate level\
+*Spring 2023, Fall 2023, Fall 2024*
 
 - Environmental Engineering, 12-351,
-Undergraduate level\Spring 2022
+Undergraduate level\
+*Spring 2022*
 
 ---
 ## Brown University, Providence, RI (USA)
 - Water Supply and Treatment, ENGN 1340,
-Undergraduate level\Spring 2021
+Undergraduate level\
+*Spring 2021*
 
 - Mechanics of Solids and Structures, ENGN 0310,
-Undergraduate level\Fall 2019
+Undergraduate level\
+*Fall 2019*
