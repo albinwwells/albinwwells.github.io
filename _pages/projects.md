@@ -1,10 +1,11 @@
 ---
-permalink: /
-title: "Albin Wells"
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /projects/
+  - /projects
 ---
 
 I am a PhD candidate in [Civil and Environmental Engineering](https://cee.engineering.cmu.edu/) at Carnegie Mellon University in Pittsburgh, USA working with [David Rounce](https://www.cmu.edu/cee/cryotartans/index.html).
