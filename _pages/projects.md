@@ -5,6 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
+Assessing regional melt patterns for improved projections of Alaskan glacier change
+======
+*2025-ongoing*\
+Synthetic aperture radar (SAR) satellite systems offer a promising avenue to monitor sub-seasonal glacier changes at high spatial resolution on a global scale. Unlike optical sensors, SAR is uniquely robust and reliable, as it penetrates clouds and functions independently to sunlight. This capability is especially crucial in mountainous regions in Alaska, where persistent cloud cover and long, dark winters limit optical observations. Particularly promising are the two Sentinel-1 satellites, which have yielded a continuous SAR record (12-day repeat) since 2016. We seek to process all Sentinel-1 SAR data for glaciers in Alaska to estimate glacier melt extents over time, which are ultimately crucial towards improving projections of glacier mass loss and the subsequent downstream effects associated with these changes throughout the 21st century. In addition to investigating the spatiotemporal melt patterns of glaciers across Alaska, we will utilize these observations in large-scale glacier evolution model calibration schemes to refine projections of modeled glacier change.
+
+
+A framework for deriving mountain glacier climatic mass balance gradients leveraging remote sensing, modeled, and in-situ data
+======
+*2024-ongoing*\
+
+The climatic mass balance gradient refers to how the sum of accumulation, refreeze, and melt varies with elevation. The gradient provides insight into the dominant processes driving glaciers’ response to climate change, which, if known, can enable the isolation of the ice flux: a key component in understanding glacier response times. These response times are crucial for forecasting glacier committed mass loss and changes to current mass imbalances. Mass balance gradients are therefore a simple yet powerful indicator of glaciers’ long-term health and response to climate change. The primary objective of this project is to develop robust approaches to estimate the climatic mass balance gradient for a few well-studied glaciers in Alaska. We will use global, publicly available remote sensing-derived glacier surface velocities, elevation, and ice thickness products in conjunction with velocity and flux divergence estimates from a finite element glacier flow model. We will calculate the climatic mass balance in a portion of the lower ablation area–where we identify data to be the most accurate–and use new melt extent and snowline datasets to determine the equilibrium-line altitude, enabling us to derive the climatic mass balance gradient. Ultimately, we aim to develop a framework to derive the climatic mass balance gradient that has the potential to scale more broadly to glaciers around the region.
+
+
 Historical glacier reconstruction for enhanced understanding of past changes and impacts on modeled projections
 ======
 *2022-2025*\
