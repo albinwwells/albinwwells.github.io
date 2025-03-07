@@ -7,6 +7,8 @@ redirect_from:
   - /projects.html
 ---
 
+{% include base_path %}
+
 Project 1
 ======
 input here
