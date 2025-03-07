@@ -8,8 +8,6 @@ redirect_from:
   - /contacts
 ---
 
-{% include base_path %}
-
 I am part of the [CryoTartans Lab](https://www.cmu.edu/cee/cryotartans/index.html) in the [Civil and Environmental Engineering Department](https://cee.engineering.cmu.edu/) at Carnegie Mellon University.
 
 **E-mail:** [awwells@cmu.edu](mailto:awwells@cmu.edu)
