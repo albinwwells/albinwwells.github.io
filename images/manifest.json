@@ -1,18 +1,8 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Albin Wells",
 	"icons": [
 		{
-			"src": "/images/favicon-192x192.png",
-			"sizes": "192x192",
-			"type": "image/png"
-		},
-		{
-			"src": "/images/favicon-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		},
-		{
-			"src": "/images/glacier_icon1.png",
+			"src": "\/images\/glacier_icon245x245.png",
 			"sizes": "225x225",
 			"type": "image/png"
 		}
