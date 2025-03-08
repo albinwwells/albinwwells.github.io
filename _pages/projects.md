@@ -13,13 +13,14 @@ Synthetic aperture radar (SAR) satellite systems offer a promising avenue to mon
 <div style="text-align: center;">
   <img src="../images/projects/alaska_sar/sar_backscatter_annotation.png" 
     alt="sar backscatter heatmap" 
-    style="height: 360px; width: auto;" 
+    style="height: 300px; width: auto;" 
     class="responsivepost">
   <img src="../images/projects/alaska_sar/ak_regional_melt_onset_days_Descending_2019-2020.png" 
     alt="alaska regional melt" 
-    style="height: 360px; width: auto;" 
+    style="height: 300px; width: auto;" 
     class="responsivepost">
 </div>
+
 
 A framework for deriving mountain glacier climatic mass balance gradients leveraging remote sensing, modeled, and in-situ data
 ======
@@ -32,6 +33,7 @@ The climatic mass balance gradient refers to how the sum of accumulation, refree
     style="height: 360px; width: auto;" 
     class="responsivepost">
 </div>
+
 
 Historical glacier reconstruction for enhanced understanding of past changes and impacts on modeled projections
 ======
@@ -48,6 +50,7 @@ Long-term historical records of glacier mass change are key to advancing our und
     style="height: 360px; width: auto;" 
     class="responsivepost">
 </div>
+
 
 GNSS reflectometry from low-cost sensors for continuous in-situ contemporaneous glacier mass balance and flux divergence
 ======
