@@ -31,7 +31,7 @@ Recent advances in remote sensing have produced global glacier surface elevation
 
 
 <div>
-<img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" alt="gnssir schematic" class="responsivepost">
+<img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" alt="gnssir schematic" height="360" class="responsivepost">
 </div>
 
 <!--
