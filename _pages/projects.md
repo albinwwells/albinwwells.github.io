@@ -22,6 +22,17 @@ Historical glacier reconstruction for enhanced understanding of past changes and
 *2022-2025*\
 Long-term historical records of glacier mass change are key to advancing our understanding of how glaciers are responding to climate change and improving predictions of their future. We use historical aerial photographs and new bed topography measurements to obtain an 85-year record of glacier change on Kennicott and Root Glaciers in Alaska. We observe a clear shift from a likely near-equilibrium state before 1957, to ongoing and accelerating mass loss throughout the late 20th and into the 21st century. Stark differences in the timing and pattern of thinning on the terminus of Kennicott and Root Glaciers emphasize the impact of debris cover on surface mass balance and ice fluxes. Under heavy debris on Kennicott Glacier, the timing of thinning aligns with reduced surface velocities, while thinning on Root Glacier corresponds to changes in the surface mass balance. Projections from a glacier evolution model that leverage these data predict accelerating rates of mass loss through at least 2050 before leveling out or trending back toward equilibrium by the end of the century. While the detailed pattern of mass loss varies between the two glaciers, these improved projections ultimately suggest that 38 to 60% of Kennicott and Root Glaciers’ total mass in 2000 will be lost by 2100, depending on the emissions scenario. Not only does such analysis enhance our understanding of glaciers’ response to climate change, but also better prepares society for the adverse impacts accompanying glacier mass loss. Thus, by leveraging historical data, we can better plan for future changes including developing adaptation and mitigation strategies for the corresponding impacts on sea-level rise, ecosystems, water resources, and the communities that rely on these glaciers.
 
+<div style="text-align: center;">
+  <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_past_change.png" 
+       alt="past mb" 
+       style="height: 360px; width: auto;" 
+       class="responsivepost">
+  <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_future_change.png" 
+       alt="future mb" 
+       style="height: 360px; width: auto;" 
+       class="responsivepost">
+</div>
+
 
 GNSS reflectometry from low-cost sensors for continuous in-situ contemporaneous glacier mass balance and flux divergence
 ======
@@ -38,44 +49,9 @@ Recent advances in remote sensing have produced global glacier surface elevation
        alt="fixed gnss" 
        style="height: 360px; width: auto;" 
        class="responsivepost">
-</div>
 
-
-<div style="text-align: center;">
   <video id="video" height="360" controls>
     <source src="https://albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
-
-<!--
-<div style="text-align: center;">
-  <video id="video" width="640" height="360" controls>
-    <source src="[https://github.com/](https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4)" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" width="640" height="360" style="display: none;">
-  
-  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/fixed_gnss_spring-fall.png" width="640" height="360" style="display: none;">
-
-  <br>
-
-  <button onclick="toggleMedia()">⬅️➡️</button>
-</div>
-
-<script>
-  function toggleMedia() {
-    var video = document.getElementById("video");
-    var image = document.getElementById("image");
-
-    if (video.style.display === "none") {
-      video.style.display = "block";
-      image.style.display = "none";
-    } else {
-      video.style.display = "none";
-      image.style.display = "block";
-    }
-  }
-</script>
-
