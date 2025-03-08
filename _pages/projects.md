@@ -12,13 +12,13 @@ Synthetic aperture radar (SAR) satellite systems offer a promising avenue to mon
 
 <div style="text-align: center;">
   <img src="https://albinwwells.github.io/images/projects/alaska_sar/sar_backscatter_annotation.png" 
-       alt="sar backscatter heatmap" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
-    <img src="https://albinwwells.github.io/images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2019-2020.png" 
-       alt="alaska regional melt" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="sar backscatter heatmap" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
+  <img src="https://albinwwells.github.io/images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2019-2020.png" 
+    alt="alaska regional melt" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
 </div>
 
 A framework for deriving mountain glacier climatic mass balance gradients leveraging remote sensing, modeled, and in-situ data
@@ -28,9 +28,9 @@ The climatic mass balance gradient refers to how the sum of accumulation, refree
 
 <div style="text-align: center;">
   <img src="https://albinwwells.github.io/images/projects/cmb_gradient/cmb_gradient_schematic.png" 
-       alt="past mb" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="past mb" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
 </div>
 
 Historical glacier reconstruction for enhanced understanding of past changes and impacts on modeled projections
@@ -40,13 +40,13 @@ Long-term historical records of glacier mass change are key to advancing our und
 
 <div style="text-align: center;">
   <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_past_change.png" 
-       alt="past mb" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="past mb" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
   <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_future_change.png" 
-       alt="future mb" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="future mb" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
 </div>
 
 GNSS reflectometry from low-cost sensors for continuous in-situ contemporaneous glacier mass balance and flux divergence
@@ -57,13 +57,13 @@ Recent advances in remote sensing have produced global glacier surface elevation
 
 <div style="text-align: center;">
   <img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" 
-       alt="gnssir schematic" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="gnssir schematic" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
   <img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_spring-fall.png" 
-       alt="fixed gnss" 
-       style="height: 360px; width: auto;" 
-       class="responsivepost">
+    alt="fixed gnss" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
 
   <video id="video" height="360" controls>
     <source src="https://albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
