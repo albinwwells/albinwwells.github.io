@@ -36,9 +36,9 @@ Recent advances in remote sensing have produced global glacier surface elevation
     Your browser does not support the video tag.
   </video>
 
-  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/main/images/projects/gnss/fixed_gnss_schematic.png" width="640" height="360" style="display: none;">
+  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" width="640" height="360" style="display: none;">
   
-  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/main/images/projects/gnss/fixed_gnss_spring-fall.png" width="640" height="360" style="display: none;">
+  <img src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/fixed_gnss_spring-fall.png" width="640" height="360" style="display: none;">
 
   <br>
 
