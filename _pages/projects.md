@@ -67,7 +67,6 @@ Recent advances in remote sensing have produced global glacier surface elevation
     alt="fixed gnss" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-
   <video id="video" height="360" controls>
     <source src="../images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
     Your browser does not support the video tag.
