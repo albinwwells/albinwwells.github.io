@@ -10,18 +10,29 @@ redirect_from:
 I am a PhD candidate in [Civil and Environmental Engineering](https://cee.engineering.cmu.edu/) at Carnegie Mellon University in Pittsburgh, USA working with [David Rounce](https://www.cmu.edu/cee/cryotartans/index.html).
 
 My research is focused on understanding current and future glacier mass changes through in-situ measurements, remote sensing, and modeling. Specifically, I am interested in:
-- high spatiotemporal resolution glacier field methods
-- glacier reconstruction from historical photographs
-- glacier evolution model calibration with disparate datasets
+- glacier field methods at high spatiotemporal resolution (e.g., GNSS, ice-penetrating radar, time-lapse systems)
+- glacier reconstruction from historical photographs (e.g., structure-from-motion photogrammetry, image feature-tracking)
+- glacier evolution model calibration with disparate datasets (e.g., glacier modeling)
 
 Background
 ======
-input here
+I grew up in Pittsburgh, PA before attending Brown University for my undergraduate studies and returning to Pittsburgh for graduate school. I came to Carnegie Mellon to study glaciology as it combined my background in engineering with my passion for the environment. Outside of research, I enjoy playing soccer, chess, hiking, and supporting the Pittsburgh sports teams.
 
 Latest research and news
 ======
-input here
+<p> <strong> 2025/03 </strong> <br>
+Ph.D. proposal defense </p>
 
+<p> <strong> 2024/12 </strong> <br>
+Presented research at AGU24 in Washington, DC. "Parsing glacier mass balance and flux divergence: challenges and implications of direct field measurements on remote sensing solutions" </p>
 
+<p> <strong> 2024/11 </strong> <br>
+New paper out in the Journal of Glaciology! "GNSS reflectometry from low-cost sensors for continuous in situ contemporaneous glacier mass balance and flux divergence" <a href="https://www.cambridge.org/core/journals/journal-of-glaciology/article/gnss-reflectometry-from-lowcost-sensors-for-continuous-in-situ-contemporaneous-glacier-mass-balance-and-flux-divergence/7F36028E3EBA46B8A1D3CB974D40B9D0"> </a> </p>
+
+<p> <strong> 2024/10 </strong> <br>
+Presented at Northwest Glaciologists meeting in Fairbanks, AK. "Understanding past and future change through historical aerial photographs on Kennicott and Root glaciers, Alaska" </p>
+
+<p> <strong> 2024/08 </strong> <br>
+Successful fall field campaign on Gulkana Glacier! We serviced 6 GNSS sites and prepped them for measurements in the winter. </p>
 
 
