@@ -32,13 +32,13 @@ Recent advances in remote sensing have produced global glacier surface elevation
 
 <div style="text-align: center;">
   <video id="video" width="640" height="360" controls>
-    <source src="https://github.com/albinwwells/albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
-  <img id="image" src="https://github.com/albinwwells/albinwwells.github.ioimages/projects/gnss/fixed_gnss_schematic.png" width="640" height="360" style="display: none;">
+  <img id="image" src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.ioimages/projects/gnss/fixed_gnss_schematic.png" width="640" height="360" style="display: none;">
   
-  <img id="image" src="https://github.com/albinwwells/albinwwells.github.ioimages/projects/gnss/fixed_gnss_spring-fall.png" width="640" height="360" style="display: none;">
+  <img id="image" src="https://raw.githubusercontent.com/albinwwells/albinwwells.github.ioimages/projects/gnss/fixed_gnss_spring-fall.png" width="640" height="360" style="display: none;">
 
   <br>
 
