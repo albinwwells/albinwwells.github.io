@@ -10,6 +10,11 @@
 			"src": "/images/favicon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
+		},
+		{
+			"src": "/images/glacier_icon1.png",
+			"sizes": "225x225",
+			"type": "image/png"
 		}
 	]
 }
