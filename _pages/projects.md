@@ -15,7 +15,7 @@ Synthetic aperture radar (SAR) satellite systems offer a promising avenue to mon
     alt="sar backscatter heatmap" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <img src="https://albinwwells.github.io/images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2019-2020.png" 
+  <img src="../images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2019-2020.png" 
     alt="alaska regional melt" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
@@ -27,7 +27,7 @@ A framework for deriving mountain glacier climatic mass balance gradients levera
 The climatic mass balance gradient refers to how the sum of accumulation, refreeze, and melt varies with elevation. The climatic mass balance gradient provides insight into the dominant processes driving glaciers’ response to climate change, which, if known, can enable the isolation of the ice flux: a key component in understanding glacier response times. These response times are crucial for forecasting glacier committed mass loss and changes to current mass imbalances. Mass balance gradients are therefore a simple yet powerful indicator of glaciers’ long-term health and response to climate change. The primary objective of this project is to develop robust approaches to estimate the climatic mass balance gradient for a few well-studied glaciers in Alaska. We will use global, publicly available remote sensing-derived glacier surface velocities, elevation, and ice thickness products in conjunction with velocity and flux divergence estimates from a finite element glacier flow model. We will calculate the climatic mass balance in a portion of the lower ablation area–where we identify data to be the most accurate–and use new melt extent and snowline datasets to determine the equilibrium-line altitude, enabling us to derive the climatic mass balance gradient. Ultimately, we aim to develop a framework to derive the climatic mass balance gradient that has the potential to scale more broadly to glaciers around the region.
 
 <div style="text-align: center;">
-  <img src="https://albinwwells.github.io/images/projects/cmb_gradient/cmb_gradient_schematic.png" 
+  <img src="../images/projects/cmb_gradient/cmb_gradient_schematic.png" 
     alt="past mb" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
@@ -39,11 +39,11 @@ Historical glacier reconstruction for enhanced understanding of past changes and
 Long-term historical records of glacier mass change are key to advancing our understanding of how glaciers are responding to climate change and improving predictions of their future. We use historical aerial photographs and new bed topography measurements to obtain an 85-year record of glacier change on Kennicott and Root Glaciers in Alaska. We observe a clear shift from a likely near-equilibrium state before 1957, to ongoing and accelerating mass loss throughout the late 20th and into the 21st century. Stark differences in the timing and pattern of thinning on the terminus of Kennicott and Root Glaciers emphasize the impact of debris cover on surface mass balance and ice fluxes. Under heavy debris on Kennicott Glacier, the timing of thinning aligns with reduced surface velocities, while thinning on Root Glacier corresponds to changes in the surface mass balance. Projections from a glacier evolution model that leverage these data predict accelerating rates of mass loss through at least 2050 before leveling out or trending back toward equilibrium by the end of the century. While the detailed pattern of mass loss varies between the two glaciers, these improved projections ultimately suggest that 38 to 60% of Kennicott and Root Glaciers’ total mass in 2000 will be lost by 2100, depending on the emissions scenario. Not only does such analysis enhance our understanding of glaciers’ response to climate change, but also better prepares society for the adverse impacts accompanying glacier mass loss. Thus, by leveraging historical data, we can better plan for future changes including developing adaptation and mitigation strategies for the corresponding impacts on sea-level rise, ecosystems, water resources, and the communities that rely on these glaciers.
 
 <div style="text-align: center;">
-  <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_past_change.png" 
+  <img src="../images/projects/kenn_past_future_mb/kenn_root_past_change.png" 
     alt="past mb" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <img src="https://albinwwells.github.io/images/projects/kenn_past_future_mb/kenn_root_future_change.png" 
+  <img src="../images/projects/kenn_past_future_mb/kenn_root_future_change.png" 
     alt="future mb" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
