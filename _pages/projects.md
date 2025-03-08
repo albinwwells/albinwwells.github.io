@@ -49,7 +49,7 @@ Long-term historical records of glacier mass change are key to advancing our und
        class="responsivepost">
 </div>
 
-
+<!--
 GNSS reflectometry from low-cost sensors for continuous in-situ contemporaneous glacier mass balance and flux divergence
 ======
 *2021-2024*\
