@@ -56,17 +56,17 @@ Recent advances in remote sensing have produced global glacier surface elevation
 [publication](https://doi.org/10.1017/jog.2024.54)
 
 <div style="text-align: center;">
-  <img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_schematic.png" 
+  <img src="../images/projects/gnss/fixed_gnss_schematic.png" 
     alt="gnssir schematic" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <img src="https://albinwwells.github.io/images/projects/gnss/fixed_gnss_spring-fall.png" 
+  <img src="../images/projects/gnss/fixed_gnss_spring-fall.png" 
     alt="fixed gnss" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
 
   <video id="video" height="360" controls>
-    <source src="https://albinwwells.github.io/images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
+    <source src="../images/projects/gnss/mb_timelapse_animation_site_ab_2023.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
