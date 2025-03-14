@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Albin Wells"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Albin Wells"
 description              : &description "PhD candidate at Carnegie Mellon University"
