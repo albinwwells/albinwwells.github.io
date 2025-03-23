@@ -228,6 +228,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  fieldwork:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -287,6 +290,14 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _fieldwork
+  - scope:
+      path: ""
+      type: fieldwork
     values:
       layout: single
       author_profile: true
