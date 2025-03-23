@@ -16,6 +16,9 @@ We have used the [Groundhog ice-penetrating radar system](https://doi.org/10.101
     alt="gpr workflow" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
+  <video id="video" height="360" controls>
+    <source src="../images/fieldwork/gpr_collection.mov" type="video/mov">
+    Your browser does not support the video tag.
 </div>
 <br/>
 
