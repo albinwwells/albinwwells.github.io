@@ -16,7 +16,7 @@ We have used the [Groundhog ice-penetrating radar system](https://doi.org/10.101
     alt="gpr workflow" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <video id="video" height="300" controls>
+  <video id="video" height="360" controls>
     <source src="../images/fieldwork/gpr_collection.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -76,7 +76,7 @@ Of course, no glacier mass balance fieldwork would be complete without digging s
     alt="time-lapse system" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <video id="video" height="300" controls>
+  <video id="video" height="360" controls>
     <source src="../images/fieldwork/stake_installation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
