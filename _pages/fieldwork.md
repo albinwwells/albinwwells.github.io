@@ -56,7 +56,7 @@ We collaborated with [colleagues in our department at CMU](https://www.flanigans
     alt="time-lapse system" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <img src="../images/fieldwork/tl_system_inside.jpeg" 
+  <img src="../images/fieldwork/tl_system_inside.jpg" 
     alt="time-lapse interior" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
