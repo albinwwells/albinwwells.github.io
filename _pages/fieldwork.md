@@ -63,7 +63,7 @@ We collaborated with [colleagues in our department at CMU](https://www.flanigans
 </div>
 <br/>
 
-Snowpits
+Snowpits and mass balance
 ======
 Of course, no glacier mass balance fieldwork would be complete without digging snowpits! These are crucial to measure winter accumulation or mass balance in accumulation zones, and for obtaining snow density measurements.
 
@@ -72,6 +72,9 @@ Of course, no glacier mass balance fieldwork would be complete without digging s
     alt="time-lapse system" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
+  <video id="video" height="360" controls>
+    <source src="../images/fieldwork/stake_installation.MOV" type="video/mov">
+    Your browser does not support the video tag.
 </div>
 <br/>
 
