@@ -12,7 +12,7 @@ Ice-penetrating radar
 We have used the [Groundhog ice-penetrating radar system](https://doi.org/10.1017/jog.2024.53) to estimate glacier ice thickness and bed topography. Such data help to constrain ice flux estimates and reveal the ice volume in the measured portions of the glacier. The schematic below outlines the process of collecting and interpreting ice-penetrating radar data.
 
 <div style="text-align: center;">
-  <img src="../images/fieldwork/gpr_workflow.png" 
+  <img src="../images/fieldwork/gpr_workflow.pneg" 
     alt="gpr workflow" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
