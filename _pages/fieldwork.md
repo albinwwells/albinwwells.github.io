@@ -73,7 +73,7 @@ Of course, no glacier mass balance fieldwork would be complete without digging s
     style="height: 360px; width: auto;" 
     class="responsivepost">
   <video id="video" height="360" controls>
-    <source src="../images/fieldwork/stake_installation.MOV" type="video/mov">
+    <source src="../images/fieldwork/stake_installation.mov" type="video/mov">
     Your browser does not support the video tag.
 </div>
 <br/>
