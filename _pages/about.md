@@ -21,7 +21,7 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 Latest research and news
 ======
 <p> <strong> 2025/03 </strong> <br>
-Dissertation proposal defense </p>
+Dissertation proposal defense. Officially a PhD candidate! </p>
 
 <p> <strong> 2024/12 </strong> <br>
 Presented research at AGU24 in Washington, DC. "Parsing glacier mass balance and flux divergence: challenges and implications of direct field measurements on remote sensing solutions" </p>
