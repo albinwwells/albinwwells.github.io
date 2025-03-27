@@ -5,7 +5,7 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-I have completed 6 field campaigns to Gulkana Glacier, Alaska from 2022-2024. I have a Wilderness First Responder (WFR) certification and have completed field safety and crevasse rescue course training. Across our numerous, we have deployed a variety of sensors, which are briefly outlined below.
+I have completed 6 field campaigns to Gulkana Glacier, Alaska from 2022-2024. I have a Wilderness First Responder (WFR) certification and have completed field safety and crevasse rescue course training. Across numerous field campaigns I have worked with and deployed a variety of sensors, some of which are briefly outlined below.
 
 Ice-penetrating radar
 ======
