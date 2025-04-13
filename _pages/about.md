@@ -21,7 +21,7 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 Latest research and news
 ======
 <p> <strong> 2025/04 </strong> <br>
-Attended <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/index.html">FieldEX</a> workshop on <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/pdf/finse/coursedescription_finse_2025.pdf">glacier safety and preparedness</a> in Finse, NO. Great to brush up on field safety skills and meet new people! </p>
+Attended <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/index.html">FieldEX</a> workshop on <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/pdf/finse/coursedescription_finse_2025.pdf">glacier safety and preparedness</a> in Finse, Norway. Great to brush up on field safety skills and meet new people! </p>
 
 <p> <strong> 2025/03 </strong> <br>
 Dissertation proposal defense. Officially a PhD candidate! </p>
