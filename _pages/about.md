@@ -27,7 +27,7 @@ Attended <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/in
 Dissertation proposal defense. Officially a PhD candidate! </p>
 
 <p> <strong> 2024/12 </strong> <br>
-Presented research at AGU24 in Washington, DC. "Parsing glacier mass balance and flux divergence: challenges and implications of direct field measurements on remote sensing solutions" </p>
+Presented research at AGU24 in Washington, DC. "Parsing glacier mass balance and flux divergence: challenges and implications of direct field measurements on remote sensing solutions" <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1527994">[abstract]</a> </p>
 
 <p> <strong> 2024/11 </strong> <br>
 New paper out in the Journal of Glaciology! "GNSS reflectometry from low-cost sensors for continuous in situ contemporaneous glacier mass balance and flux divergence" <a href="https://www.cambridge.org/core/journals/journal-of-glaciology/article/gnss-reflectometry-from-lowcost-sensors-for-continuous-in-situ-contemporaneous-glacier-mass-balance-and-flux-divergence/7F36028E3EBA46B8A1D3CB974D40B9D0">[doi]</a> </p>
