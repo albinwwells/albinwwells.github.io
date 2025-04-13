@@ -20,6 +20,9 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2025/04 </strong> <br>
+Attended <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/index.html">FieldEX</a> workshop on <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/pdf/finse/coursedescription_finse_2025.pdf">glacier safety and preparedness</a> in Finse, NO. Great to brush up on field safety skills and meet new people! </p>
+
 <p> <strong> 2025/03 </strong> <br>
 Dissertation proposal defense. Officially a PhD candidate! </p>
 
@@ -27,7 +30,7 @@ Dissertation proposal defense. Officially a PhD candidate! </p>
 Presented research at AGU24 in Washington, DC. "Parsing glacier mass balance and flux divergence: challenges and implications of direct field measurements on remote sensing solutions" </p>
 
 <p> <strong> 2024/11 </strong> <br>
-New paper out in the Journal of Glaciology! "GNSS reflectometry from low-cost sensors for continuous in situ contemporaneous glacier mass balance and flux divergence" <a href="https://www.cambridge.org/core/journals/journal-of-glaciology/article/gnss-reflectometry-from-lowcost-sensors-for-continuous-in-situ-contemporaneous-glacier-mass-balance-and-flux-divergence/7F36028E3EBA46B8A1D3CB974D40B9D0"> </a> </p>
+New paper out in the Journal of Glaciology! "GNSS reflectometry from low-cost sensors for continuous in situ contemporaneous glacier mass balance and flux divergence" <a href="https://www.cambridge.org/core/journals/journal-of-glaciology/article/gnss-reflectometry-from-lowcost-sensors-for-continuous-in-situ-contemporaneous-glacier-mass-balance-and-flux-divergence/7F36028E3EBA46B8A1D3CB974D40B9D0">(doi)</a> </p>
 
 <p> <strong> 2024/10 </strong> <br>
 Presented at Northwest Glaciologists meeting in Fairbanks, AK. "Understanding past and future change through historical aerial photographs on Kennicott and Root glaciers, Alaska" </p>
