@@ -7,6 +7,10 @@ redirect_from:
   - /teaching.html
 ---
 
+I have mentored **two** undergraduate research projects during my time at Carnegie Mellon University.
+
+---
+
 In all courses list below, I was a teaching assistant.
 
 ---
