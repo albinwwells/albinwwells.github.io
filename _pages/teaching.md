@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-I have mentored **two** undergraduate research projects during my time at Carnegie Mellon University.
+I have mentored **two** undergraduate research students during my time at Carnegie Mellon University.
 
 ---
 
