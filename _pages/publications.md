@@ -9,8 +9,11 @@ redirect_from:
 
 ## Manuscripts under review
 
-<ins>**Albin Wells**</ins>, Brandon S. Tober, Sarah F. Child, David R. Rounce, Michael G. Loso, Chad P. Hults, Martin Truffer, John W. Holt, and Michael S. Christoffersen (2025). "An 85-year record of glacier change and impacts on future projections for Kennicott and Root Glaciers, Alaska"\
-***Nature Communications (in review)***, .\
+<ins>**Albin Wells**</ins>, David R. Rounce, Mark Fahnestock, and Mira Khadka (2025). "Spatiotemporal patterns in glacier melt and transient snowlines across Alaska from Synthetic Aperture Radar"\
+***(in prep)***
+
+<ins>**Albin Wells**</ins>, Brandon S. Tober, Sarah F. Child, David R. Rounce, Michael G. Loso, Chad P. Hults, Martin Truffer, John W. Holt, and Michael S. Christoffersen (2025). "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska"\
+***Nature Communications (accepted)***, .\
 [data](https://doi.org/10.5281/zenodo.14783252){: .btn--research}{:target="_blank"}
 [code](https://github.com/albinwwells/past_and_future_mb){: .btn--research}{:target="_blank"}
 
