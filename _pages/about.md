@@ -20,6 +20,12 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2025/08 </strong> <br>
+New paper out in Nature Communications! "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska" <a href="https://www.nature.com/articles/s41467-025-62962-w">[doi]</a> </p>
+
+<p> <strong> 2025/08 </strong> <br>
+Successful fall trip to Gulkana Glacier! We took seasonal mass balance measurements and removed 5 GNSS systems from the field. </p>
+
 <p> <strong> 2025/04 </strong> <br>
 Attended <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/index.html">FieldEX</a> workshop on <a href="https://www.mn.uio.no/geo/english/research/projects/fieldex/pdf/finse/coursedescription_finse_2025.pdf">glacier safety and preparedness</a> in Finse, Norway. Great to brush up on field safety skills and meet new people! </p>
 
