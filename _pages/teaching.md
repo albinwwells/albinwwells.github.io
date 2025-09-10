@@ -7,9 +7,10 @@ redirect_from:
   - /teaching.html
 ---
 
-I have mentored **two** students during my time at Carnegie Mellon University.
+I have mentored **three** students during my time at Carnegie Mellon University.
 - Yujun Wu, *undergraduate student in Civil and Environmental Engineering (senior)*
 - Alicia Chen, *undergraduate student in Information Systems (junior)*
+- Jaden Singh, *undergraduate student in Computer Science (junior)*
 
 ---
 
