@@ -20,6 +20,9 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2024/10 </strong> <br>
+Presented at Northwest Glaciologists meeting in Kananaskis, Alberta. "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" </p>
+
 <p> <strong> 2025/08 </strong> <br>
 New paper out in Nature Communications! "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska" <a href="https://www.nature.com/articles/s41467-025-62962-w">[doi]</a> </p>
 
