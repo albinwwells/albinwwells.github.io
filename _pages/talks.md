@@ -15,6 +15,10 @@ author_profile: true
 ---
 ## Talks
 
+October 2025, **Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming**,
+*Northwest Glaciologists*, Kananaskis, AL (CAN).\
+[slides](/files/presentations/Wells_NWG_2025_Presentation.pdf){: .btn--research}{:target="_blank"}
+
 December 2024, **Parsing glacier mass balance and flux divergence: challenges and
 implications of direct field measurements on remote sensing solutions**,
 *American Geophysical Union Fall Meeting (invited speaker)*, Washington, DC (USA).\
