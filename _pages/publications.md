@@ -10,7 +10,7 @@ redirect_from:
 ## Manuscripts under review
 
 <ins>**Albin Wells**</ins>, David R. Rounce, and Mark Fahnestock (2025). "Imaging seasonal progression of melt and snowline change across Alaska using SAR reveals impacts of heat waves"\
-***(in prep)***
+***(in review)***
 
 ---
 ## Publications
