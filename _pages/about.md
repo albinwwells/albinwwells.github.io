@@ -20,8 +20,11 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
-<p> <strong> 2024/10 </strong> <br>
+<p> <strong> 2025/10 </strong> <br>
 Presented at Northwest Glaciologists meeting in Kananaskis, Alberta. "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" </p>
+
+<p> <strong> 2025/10 </strong> <br>
+Excited to be a co-chair for a new IACS Working Group entitled <em>Continuity approaches for mass balance Intercomparison eXercise (ContinuIX)</em> aimed at developing methodologies to invert glacier surface mass balance from remote sensing datasets! <a href="https://www.nature.com/articles/s41467-025-62962-w](https://cryosphericsciences.org/activities/continuity-approaches-for-mass-balance-intercomparison-exercise-continuix/">[website]</a> </p>
 
 <p> <strong> 2025/08 </strong> <br>
 New paper out in Nature Communications! "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska" <a href="https://www.nature.com/articles/s41467-025-62962-w">[doi]</a> </p>
