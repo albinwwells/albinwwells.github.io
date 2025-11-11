@@ -17,7 +17,7 @@ Synthetic aperture radar (SAR) satellite systems offer a promising avenue to mon
     alt="sar backscatter heatmap" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
-  <img src="../images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2017-2021.png" 
+  <img src="../images/projects/alaska_sar/alaska_regional_melt_onset_days_Descending_2017-2024.png" 
     alt="alaska regional melt" 
     style="height: 360px; width: auto;" 
     class="responsivepost">
