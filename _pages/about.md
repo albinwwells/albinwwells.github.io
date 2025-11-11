@@ -24,7 +24,7 @@ Latest research and news
 Presented at Northwest Glaciologists meeting in Kananaskis, Alberta. "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" </p>
 
 <p> <strong> 2025/10 </strong> <br>
-Excited to be a co-chair for a new IACS Working Group entitled <em>Continuity approaches for mass balance Intercomparison eXercise (ContinuIX)</em> aimed at developing methodologies to invert glacier surface mass balance from remote sensing datasets! <a href="https://www.nature.com/articles/s41467-025-62962-w](https://cryosphericsciences.org/activities/continuity-approaches-for-mass-balance-intercomparison-exercise-continuix/">[website]</a> </p>
+Excited to be a co-chair for a <a href="https://www.nature.com/articles/s41467-025-62962-w](https://cryosphericsciences.org/activities/continuity-approaches-for-mass-balance-intercomparison-exercise-continuix/">[new IACS Working Group]</a> entitled "Continuity approaches for mass balance Intercomparison eXercise (ContinuIX)." The working group is aimed at developing methodologies to invert glacier surface mass balance from remote sensing datasets! </p>
 
 <p> <strong> 2025/08 </strong> <br>
 New paper out in Nature Communications! "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska" <a href="https://www.nature.com/articles/s41467-025-62962-w">[doi]</a> </p>
