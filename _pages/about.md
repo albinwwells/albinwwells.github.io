@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [Civil and Environmental Engineering](https://cee.engineering.cmu.edu/) at Carnegie Mellon University in Pittsburgh, USA working with [David Rounce](https://www.cmu.edu/cee/cryotartans/index.html).
+I am a PhD candidate in [Civil and Environmental Engineering](https://cee.engineering.cmu.edu/) at Carnegie Mellon University in Pittsburgh, USA working with Prof. David Rounce.
 
 My research is focused on understanding current and future glacier mass changes through in-situ measurements, remote sensing, and modeling. Specifically, I am interested in:
 - glacier field methods at high spatiotemporal resolution (e.g., GNSS, ice-penetrating radar, time-lapse systems)
