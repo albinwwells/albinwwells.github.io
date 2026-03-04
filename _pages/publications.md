@@ -9,11 +9,18 @@ redirect_from:
 
 ## Manuscripts under review
 
-<ins>**Albin Wells**</ins>, David R. Rounce, and Mark Fahnestock (2025). "Imaging seasonal progression of melt and snowline change across Alaska using SAR reveals impacts of heat waves"\
-***(in review)***
+<ins>**Albin Wells**</ins>, David R. Rounce, and Brandon S. Tober. "Alaskan glaciers in a warming climate"\
+***(in preparation)***
 
 ---
 ## Publications
+
+<ins>**Albin Wells**</ins>, David R. Rounce, and Mark Fahnestock (2026). "Imaging seasonal progression of melt and snowline change across Alaska using SAR reveals impacts of heat waves"\
+***npj Climate and Atmospheric Science***\
+[doi](https://doi.org/10.1038/s41612-026-01321-y){: .btn--research}{:target="_blank"}
+[data](https://doi.org/10.5281/zenodo.17573252){: .btn--research}{:target="_blank"}
+[interact with data](https://alaskasnowlines.streamlit.app/){: .btn--research}{:target="_blank"}
+[code](https://github.com/albinwwells/SAR-Alaska-Processing){: .btn--research}{:target="_blank"}
 
 <ins>**Albin Wells**</ins>, Brandon S. Tober, Sarah F. Child, David R. Rounce, Michael G. Loso, Chad P. Hults, Martin Truffer, John W. Holt, and Michael S. Christoffersen (2025). "An 85-year record of glacier change and refined projections for Kennicott and Root Glaciers, Alaska"\
 ***Nature Communications***, **16**, 7835.\
