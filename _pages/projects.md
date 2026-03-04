@@ -5,11 +5,29 @@ permalink: /projects/
 author_profile: true
 ---
 
-Assessing regional melt patterns for improved projections of Alaskan glacier change
+Alaska Glaciers in a Warming Climate
 ======
 *2025-ongoing*\
+Glaciers across Alaska are undergoing rapid mass loss, with implications for sea-level rise, natural hazards, water resources, and more. Here, we utilize new observations of Alaskan glaciers at high spatiotemporal resolutions to improve projections to 2100. Specifically, we incorporate snowline and melt extent observations into the calibration scheme for a large-scale glacier evolution model, PyGEM, and subsequently simulate future changes under various climate scenarios. We find that glaciers in Alaska will lose 49 ± 17% to 73 ± 26% of their 2015 mass by the end of the century, depending on the future climate. We show that nearly all small glaciers (<1 km2) will disappear by 2100 regardless of the climate scenario, along with the smallest glaciated subregions of Alaska, namely, the Brooks and Talkeetna ranges. Across larger subregions, we show negative mass balance to peak in the middle of the 21st century for the modest future warming scenario, while negative mass balance continues to increase to 2100 for the most aggressive future warming scenario. Much of these changes can be attributed to increasing temperatures that cause greater melt, but we also note a shift in early-winter precipitation from snow to rain which reduces accumulation and enhances melt. The widespread glacier mass loss by 2100 will result in a drastic decrease in the total amount of runoff from glaciers in Alaska, which has implications on ecology and water resources across the region.\
+
+<div style="text-align: center;">
+<!--   <img src="../images/projects/alaska_sar/sar_backscatter_annotation.png"  -->
+  <img src="../images/projects/alaska_sar_pygem/model_workflow.png" 
+    alt="modeling workflow" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
+  <img src="../images/projects/alaska_sar_pygem/projected_mass_loss.png" 
+    alt="alaska mass loss projection" 
+    style="height: 360px; width: auto;" 
+    class="responsivepost">
+</div>
+<br/>
+
+Assessing regional melt patterns for improved projections of Alaskan glacier change
+======
+*2025*\
 Synthetic aperture radar (SAR) satellite systems offer a promising avenue to monitor sub-seasonal glacier changes at high spatial resolution on a global scale. Unlike optical sensors, SAR is uniquely robust and reliable, as it penetrates clouds and functions independently to sunlight. This capability is especially crucial in mountainous regions in Alaska, where persistent cloud cover and long, dark winters limit optical observations. Particularly promising are the two Sentinel-1 satellites, which have yielded a continuous SAR record (12-day repeat) since 2016. We seek to process all Sentinel-1 SAR data for glaciers in Alaska to estimate glacier melt extents over time, which are ultimately crucial towards improving projections of glacier mass loss and the subsequent downstream effects associated with these changes throughout the 21st century. In addition to investigating the spatiotemporal melt patterns of glaciers across Alaska, we will utilize these observations in large-scale glacier evolution model calibration schemes to refine projections of modeled glacier change.\
-[interact with the data](https://alaskasnowlines.streamlit.app/)
+[interact with the data](https://alaskasnowlines.streamlit.app/) [publication](https://www.nature.com/articles/s41612-026-01321-y)
 
 <div style="text-align: center;">
 <!--   <img src="../images/projects/alaska_sar/sar_backscatter_annotation.png"  -->
