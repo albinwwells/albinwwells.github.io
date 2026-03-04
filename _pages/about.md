@@ -7,19 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Civil and Environmental Engineering](https://cee.engineering.cmu.edu/) at Carnegie Mellon University in Pittsburgh, USA working with Prof. David Rounce (for more, see the [CryoTartans research group](https://www.cmu.edu/cee/cryotartans/index.html)).
+I am a post-doc in the [Department of Geography](https://www.geo.uzh.ch/en.html) at the University of Zurich in Zurich, CH working with the [World Glacier Monitoring Service](https://wgms.ch/).
 
-My research is focused on understanding current and future glacier mass changes through in-situ measurements, remote sensing, and modeling. Specifically, I am interested in:
+Currently, I am working as part of the second [Glacier Mass Balance Intercomparison Exercise (GlaMBIE-2) project](https://glambie.org/glambie-2/) to reconcile measurements of glacier mass balance across the globe.
+
+I completed my PhD at Carnegie Mellon University with Prof. David Rounce in February 2026. My PhD research was focused on understanding current and future glacier mass changes through in-situ measurements, remote sensing, and modeling. Specifically, I am interested in:
 - glacier field methods at high spatiotemporal resolution (e.g., GNSS, ice-penetrating radar, time-lapse systems)
 - glacier reconstruction from historical photographs (e.g., structure-from-motion photogrammetry, image feature-tracking)
 - glacier evolution model calibration with disparate datasets (e.g., glacier modeling)
 
 Background
 ======
-I grew up in Pittsburgh, PA before attending Brown University for my undergraduate studies and returning to Pittsburgh for graduate school. I came to Carnegie Mellon to study glaciology as it combined my background in engineering with my passion for the environment. Outside of research, I enjoy playing soccer, chess, hiking, and supporting the Pittsburgh sports teams.
+I grew up in Pittsburgh, PA before attending Brown University for my undergraduate studies and returning to Pittsburgh for graduate school. I went to Carnegie Mellon to study glaciology as it combined my background in engineering with my passion for the environment. Currently, I'm continuing glacier research with the World Glacier Monitoring Service at the University of Zurich. Outside of research, I enjoy playing soccer, chess, hiking, and supporting the Pittsburgh sports teams.
 
 Latest research and news
 ======
+<p> <strong> 2026/02 </strong> <br>
+Dissertation defended: officially a doctor! </p>
+
+<p> <strong> 2026/02 </strong> <br>
+New paper out in npj Climate and Atmospheric Science! "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" <a href="https://www.nature.com/articles/s41612-026-01321-y">[doi]</a> </p>
+
+<p> <strong> 2025/12 </strong> <br>
+Our research was presented at AGU25 in New Orleans, LA. "Spatial and temporal variations in glacier melt in Alaska from Sentinel-1 SAR data" <a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMC21E.0396R/abstract">[abstract]</a> </p>
+
 <p> <strong> 2025/10 </strong> <br>
 Presented at Northwest Glaciologists meeting in Kananaskis, Alberta. "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" </p>
 
