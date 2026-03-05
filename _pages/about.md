@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc with the [World Glacier Monitoring Service](https://wgms.ch/) in the [Department of Geography](https://www.geo.uzh.ch/en.html) at the University of Zurich in Zurich, CH. Currently, I am working as part of the second [Glacier Mass Balance Intercomparison Exercise (GlaMBIE-2) project](https://glambie.org/glambie-2/) to reconcile measurements of glacier mass balance across the globe.
+I am a post-doc with the [World Glacier Monitoring Service (WGMS)](https://wgms.ch/) in the [Department of Geography](https://www.geo.uzh.ch/en.html) at the University of Zurich (UZH) in Zurich, CH. Currently, I am working as part of the second [Glacier Mass Balance Intercomparison Exercise (GlaMBIE-2) project](https://glambie.org/glambie-2/) to reconcile measurements of glacier mass balance across the globe.
 
 I completed my PhD at Carnegie Mellon University with Prof. David Rounce in February 2026. My PhD research was focused on understanding current and future glacier mass changes through in-situ measurements, remote sensing, and modeling. Specifically, I am interested in:
 - glacier field methods at high spatiotemporal resolution (e.g., GNSS, ice-penetrating radar, time-lapse systems)
