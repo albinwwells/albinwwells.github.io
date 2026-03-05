@@ -15,6 +15,14 @@ author_profile: true
 ---
 ## Talks
 
+February 2026, **From the Ground Up: Integrating Field Measurements with Remote Sensing for Improved Glacier Evolution Modeling**,
+*Public PhD dissertation defense*, Pittsburgh, PA (USA).\
+[slides](/files/presentations/Wells_PhD_Defense.pdf){: .btn--research}
+
+December 2025, **Spatial and temporal variations in glacier melt in Alaska from Sentinel-1 SAR data**,
+*American Geophysical Union Fall Meeting (presented by David Rounce)*, New Orleans, LA (USA).\
+[slides](/files/presentations/Wells_AGU_2025_Presentation.pdf){: .btn--research}
+
 October 2025, **Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming**,
 *Northwest Glaciologists*, Kananaskis, AB (CAN).\
 [slides](/files/presentations/Wells_NWG_2025_Presentation.pdf){: .btn--research}{:target="_blank"}
