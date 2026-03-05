@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Albin Wells"
-description              : &description "Post-doc at the World Glacier Monitoring Service"
+description              : &description "Post-doc at the WGMS"
 url                      : https://albinwwells.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "albinwwells/albinwwells.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Post-doc"
   location         : "Zurich, CH"
-  employer         : "World Glacier Monitoring Service"
+  employer         : "WGMS"
   uri              : # URL
   email            : "albin.wells@geo.uzh.ch" 
 
