@@ -22,8 +22,11 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2026/03 </strong> <br>
+Started a new position as a post-doc with the World Glacier Monitoring Service at the University of Zurich! </p>
+
 <p> <strong> 2026/02 </strong> <br>
-Dissertation defended: officially a doctor! </p>
+Dissertation defended and thesis submitted: officially a doctor! </p>
 
 <p> <strong> 2026/02 </strong> <br>
 New paper out in npj Climate and Atmospheric Science! "Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming" <a href="https://www.nature.com/articles/s41612-026-01321-y">[doi]</a> </p>
