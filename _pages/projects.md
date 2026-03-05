@@ -14,11 +14,11 @@ Glaciers across Alaska are undergoing rapid mass loss, with implications for sea
 <!--   <img src="../images/projects/alaska_sar/sar_backscatter_annotation.png"  -->
   <img src="../images/projects/alaska_sar_pygem/model_workflow.png" 
     alt="modeling workflow" 
-    style="height: 360px; width: auto;" 
+    style="height: 240px; width: auto;" 
     class="responsivepost">
   <img src="../images/projects/alaska_sar_pygem/projected_mass_loss.png" 
     alt="alaska mass loss projection" 
-    style="height: 360px; width: auto;" 
+    style="height: 480px; width: auto;" 
     class="responsivepost">
 </div>
 <br/>
