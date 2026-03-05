@@ -15,6 +15,10 @@ redirect_from:
 ---
 ## Publications
 
+<ins>**Albin Wells**</ins> (2026). "From the Ground Up: Integrating Field Measurements With Remote Sensing for Improved Glacier Evolution Modeling"\
+***Carnegie Mellon University***, doctoral dissertation\
+[link](https://www.proquest.com/docview/3308641511){: .btn--research}{:target="_blank"}
+
 <ins>**Albin Wells**</ins>, David R. Rounce, and Mark Fahnestock (2026). "Imaging seasonal progression of melt and snowline change across Alaska using SAR reveals impacts of heat waves"\
 ***npj Climate and Atmospheric Science***\
 [doi](https://doi.org/10.1038/s41612-026-01321-y){: .btn--research}{:target="_blank"}
