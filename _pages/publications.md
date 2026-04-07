@@ -15,6 +15,14 @@ redirect_from:
 ---
 ## Publications
 
+The WGMS Network (incl. <ins>**Albin Wells**</ins>) (2026). "Global glacier mass change in 2025"\
+***Nature Reviews Earth and Environironment***\ 
+[doi](https://doi.org/10.1038/s43017-026-00777-z)
+
+Claire V. Wilson, David R. Rounce, Louis Sass, <ins>**Albin Wells**</ins>, Emily H. Baker, Mark Flanner, and S. McKenzie Skiles (2026). "The Python Energy Balance model for Snow and Ice (PEBSI): application and tradeoff analysis on Gulkana Glacier, Alaska"\ 
+***Journal of Glaciology*** pp. 1-34.\
+[doi](https://doi.org/10.1017/jog.2026.10154)
+
 <ins>**Albin Wells**</ins> (2026). "From the Ground Up: Integrating Field Measurements With Remote Sensing for Improved Glacier Evolution Modeling"\
 ***Carnegie Mellon University***, doctoral dissertation\
 [link](https://www.proquest.com/docview/3308641511){: .btn--research}{:target="_blank"}
@@ -33,7 +41,7 @@ redirect_from:
 [code](https://github.com/albinwwells/past_and_future_mb){: .btn--research}{:target="_blank"}
 
 <ins>**Albin Wells**</ins>, David Rounce, Louis Sass, Caitlyn Florentine, Adam Garbo, Emily Baker, Christopher McNeil (2024). "GNSS reflectometry from low-cost sensors for continuous in situ contemporaneous glacier mass balance and flux divergence"\
-***Journal of Glaciology***, **70**, pp 1-12.\
+***Journal of Glaciology***, **70**, pp. 1-12.\
 [doi](https://doi.org/10.1017/jog.2024.54){: .btn--research}{:target="_blank"}
 [data]([https://arxiv.org/abs/2301.12832](https://doi.org/10.5281/zenodo.10846444)){: .btn--research}{:target="_blank"}
 
