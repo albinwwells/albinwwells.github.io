@@ -16,10 +16,10 @@ redirect_from:
 ## Publications
 
 The WGMS Network (incl. <ins>**Albin Wells**</ins>) (2026). "Global glacier mass change in 2025"\
-***Nature Reviews Earth and Environironment***\ 
+***Nature Reviews Earth and Environironment***\
 [doi](https://doi.org/10.1038/s43017-026-00777-z)
 
-Claire V. Wilson, David R. Rounce, Louis Sass, <ins>**Albin Wells**</ins>, Emily H. Baker, Mark Flanner, and S. McKenzie Skiles (2026). "The Python Energy Balance model for Snow and Ice (PEBSI): application and tradeoff analysis on Gulkana Glacier, Alaska"\ 
+Claire V. Wilson, David R. Rounce, Louis Sass, <ins>**Albin Wells**</ins>, Emily H. Baker, Mark Flanner, and S. McKenzie Skiles (2026). "The Python Energy Balance model for Snow and Ice (PEBSI): application and tradeoff analysis on Gulkana Glacier, Alaska"\
 ***Journal of Glaciology*** pp. 1-34.\
 [doi](https://doi.org/10.1017/jog.2026.10154)
 
