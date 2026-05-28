@@ -7,10 +7,13 @@ redirect_from:
   - /teaching.html
 ---
 
-I have mentored **three** students during my time at Carnegie Mellon University.
-- Yujun Wu, *undergraduate student in Civil and Environmental Engineering (senior)*
-- Alicia Chen, *undergraduate student in Information Systems (junior)*
-- Jaden Singh, *undergraduate student in Computer Science (junior)*
+I have mentored students on projects throughout my PhD and post-doc.
+- Yujun Wu, **CMU (Pittsburgh)**, *Civil and Environmental Engineering (senior)*
+- Alicia Chen, **CMU (Pittsburgh)**, *Information Systems (junior)*
+- Jaden Singh, **CMU (Pittsburgh)**, *Computer Science (junior)*
+- Konstantin Segesser, **ETH (Zurich)**, *Civil, Environmental and Geomatic Engineering (master's)*
+- Arvid Maurer, **ETH (Zurich)**, *Civil, Environmental and Geomatic Engineering (master's)*
+- Sina Meissner, **UZH (Zurich)**, *Department of Geography (master's)*
 
 ---
 
