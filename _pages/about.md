@@ -20,6 +20,9 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2026/05 </strong> <br>
+Graduated from Carnegie Mellon University. Honored to receive the Mao Yisheng Outstanding Dissertation Award! </p>
+
 <p> <strong> 2026/03 </strong> <br>
 Started a new position as a post-doc with the World Glacier Monitoring Service at the University of Zurich! </p>
 
