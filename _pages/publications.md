@@ -10,10 +10,13 @@ redirect_from:
 ## Manuscripts under review
 
 <ins>**Albin Wells**</ins>, David R. Rounce, and Brandon S. Tober. "Alaskan glaciers in a warming climate"\
-***(in preparation)***
+***(in review at Earth's Future)***
 
 ---
 ## Publications
+<ins>**Albin Wells**</ins>, David R. Rounce, Martin Truffer, and Louis Sass (2026). "Low-frequency radar and inferred ice thickness, Gulkana Glacier, Alaska, 2024"\
+***U.S. Geological Survey data release***\
+[doi](https://doi.org/10.5066/P135I3MH)
 
 The WGMS Network (incl. <ins>**Albin Wells**</ins>) (2026). "Global glacier mass change in 2025"\
 ***Nature Reviews Earth and Environironment***\
