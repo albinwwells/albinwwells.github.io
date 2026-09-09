@@ -61,13 +61,13 @@ April 2021, **Characterization of Silicone Polymers for Energy Harvesting from C
 
 September 2026, **The Cryologger Glacier Velocity Tracker: An open-source GNSS platform for glacier dynamics**,
 *International Glaciological Society (IGS) British Branch Meeting* 
-*(Garbo, A., Copland, L., Van Wychen, W., Dow, C., Mattea, E., [Wells, A.], Esquivel, 
+*(Garbo, A., Copland, L., Van Wychen, W., Dow, C., Mattea, E., <u>Wells, A.</u>, Esquivel, 
 S., Tedstone, A., Alley, K., Thomson, L., & Dube, J.)*, Aberdeen (UK)
 
 May 2026, **Exploring contemporaneous observational datasets to derive glacier surface 
 mass balance from continuity approaches (ContinuIX working group)**,
 *European Geophysical Union (EGU) General Assembly 2026* 
-*(Izeboud, M., [Wells, A.], Fürst, J. J., Kneib, M., Miles, E., Devaux-Chupin, V., 
+*(Izeboud, M., <u>Wells, A.</u>, Fürst, J. J., Kneib, M., Miles, E., Devaux-Chupin, V., 
 Van Tricht, L., Henning, K., & Zekollari, H)*, Vienna (AUT)
 
 March 2024, **Utilizing GNSS reflectometry with low-cost sensors for high-resolution 
