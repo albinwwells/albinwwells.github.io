@@ -20,7 +20,7 @@ February 2026, **From the Ground Up: Integrating Field Measurements with Remote 
 [slides](/files/presentations/Wells_PhD_Defense.pdf){: .btn--research}
 
 December 2025, **Spatial and temporal variations in glacier melt in Alaska from Sentinel-1 SAR data**,
-*American Geophysical Union Fall Meeting (presented by David Rounce)*, New Orleans, LA (USA).\
+*American Geophysical Union (AGU) Fall Meeting (presented by David Rounce)*, New Orleans, LA (USA).\
 [slides](/files/presentations/Wells_AGU_2025_Presentation.pdf){: .btn--research}
 
 October 2025, **Seasonal progression of melt and snowlines in Alaska from SAR reveals impacts of warming**,
@@ -29,7 +29,7 @@ October 2025, **Seasonal progression of melt and snowlines in Alaska from SAR re
 
 December 2024, **Parsing glacier mass balance and flux divergence: challenges and
 implications of direct field measurements on remote sensing solutions**,
-*American Geophysical Union Fall Meeting (invited speaker)*, Washington, DC (USA).\
+*American Geophysical Union (AGU) Fall Meeting (invited speaker)*, Washington, DC (USA).\
 [slides](/files/presentations/Wells_AGU_2024_Presentation.pdf){: .btn--research}
 
 October 2024, **Understanding past and future change through historical aerial
@@ -59,6 +59,17 @@ April 2021, **Characterization of Silicone Polymers for Energy Harvesting from C
 ---
 ## Posters
 
+September 2026, **The Cryologger Glacier Velocity Tracker: An open-source GNSS platform for glacier dynamics**,
+*International Glaciological Society (IGS) British Branch Meeting* 
+*(Garbo, A., Copland, L., Van Wychen, W., Dow, C., Mattea, E., [Wells, A.], Esquivel, 
+S., Tedstone, A., Alley, K., Thomson, L., & Dube, J.)*, Aberdeen (UK)
+
+May 2026, **Exploring contemporaneous observational datasets to derive glacier surface 
+mass balance from continuity approaches (ContinuIX working group)**,
+*European Geophysical Union (EGU) General Assembly 2026* 
+*(Izeboud, M., [Wells, A.], Fürst, J. J., Kneib, M., Miles, E., Devaux-Chupin, V., 
+Van Tricht, L., Henning, K., & Zekollari, H)*, Vienna (AUT)
+
 March 2024, **Utilizing GNSS reflectometry with low-cost sensors for high-resolution 
 contemporaneous glacier mass balance and flux divergence**,
 *Steinbrenner Institute Sustainability Symposium*, Pittsburgh, PA (USA).\
@@ -70,7 +81,7 @@ March 2023, **Deriving climatic mass balance gradients through the integration o
 
 December 2022, **Deriving the Climatic Mass Balance Gradients of Alaskan Glaciers 
 through the Integration of Field Measurements and Remote Sensing**,
-*American Geophysical Union Fall Meeting*, Chicago, IL (USA).\
+*American Geophysical Union (AGU) Fall Meeting*, Chicago, IL (USA).\
 [poster](/files/posters/Wells_AGU_Poster_2022_v3.pdf){: .btn--research}{:target="_blank"}
 
 May 2022, **Leveraging remote sensing data with in-situ measurements for enhanced 
