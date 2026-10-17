@@ -20,6 +20,12 @@ I grew up in Pittsburgh, PA before attending Brown University for my undergradua
 
 Latest research and news
 ======
+<p> <strong> 2026/10 </strong> <br>
+New paper out in Earth's Future! "Alaskan Glaciers in a Warming Climate" <a href="https://doi.org/10.1029/2026EF009035">[doi]</a> </p>
+
+<p> <strong> 2026/09 </strong> <br>
+Excited to experience glaciological field work in Switzerland for the first time, on Oberaar Glacier! We took seasonal mass balance measurements, and returned a few weeks later to get more measurements with students. </p>
+
 <p> <strong> 2026/05 </strong> <br>
 Graduated from Carnegie Mellon University. Honored to receive the Mao Yisheng Outstanding Dissertation Award! </p>
 
